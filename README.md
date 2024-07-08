@@ -1,2 +1,3 @@
-# mssc-brewery-client
+# MSSC Brewery Client
+
 MSSC Brewery Client

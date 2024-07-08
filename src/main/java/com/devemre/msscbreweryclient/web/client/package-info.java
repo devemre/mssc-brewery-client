@@ -1,0 +1,1 @@
+package com.devemre.msscbreweryclient.web.client;
