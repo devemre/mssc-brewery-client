@@ -2,6 +2,8 @@ package com.devemre.msscbreweryclient.web.client;
 
 import com.devemre.msscbreweryclient.web.model.BeerDto;
 import com.devemre.msscbreweryclient.web.model.CustomerDto;
+import lombok.Getter;
+import lombok.Setter;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.boot.web.client.RestTemplateBuilder;
 import org.springframework.stereotype.Component;
